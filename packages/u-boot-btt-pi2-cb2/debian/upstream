@@ -1,0 +1,4 @@
+GIT=https://github.com/JayJay1989/u-boot-rockchip
+COMMIT=d86c63a54014da45d29bc65622e6fb10c2103e07
+BRANCH=plucky
+ 
